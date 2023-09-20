@@ -17,8 +17,8 @@ This project can shows the final grid for the distance between two inputted word
 
 ## Screenshot Preview
 
-![screenshot](./levenshtein1.jpg?raw=true)
-![screenshot](./levenshtein2.jpg?raw=true)
+![screenshot](./levenshtein1.png?raw=true)
+![screenshot](./levenshtein2.png?raw=true)
 
 ## What could be improved
 
