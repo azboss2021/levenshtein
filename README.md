@@ -12,6 +12,8 @@ This project can shows the final grid for the distance between two inputted word
 - React
 - How levenshtein distance works
 - UI Design
+- React icons
+- Custom fonts
 
 ## Screenshot Preview
 
